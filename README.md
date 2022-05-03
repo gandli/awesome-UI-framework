@@ -4,6 +4,8 @@
 
 [Material UI](https://github.com/mui/material-ui) <img width="21" src="https://mui.com/static/logo.svg">
 
+> MUI Core包含用于更快发布新功能的基础 React UI 组件库。
+
 [Ant Design](https://github.com/ant-design/ant-design)  <img width="21" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
 
 > 一套企业级 UI 设计语言和 React 组件库。
