@@ -6,6 +6,8 @@
 
 [Ant Design](https://github.com/ant-design/ant-design)  <img width="21" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
 
+> 一套企业级 UI 设计语言和 React 组件库。
+
 [Chakra UI](https://github.com/chakra-ui/chakra-ui)  <img width="84" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png" />
 
 > Chakra UI 提供了一组可访问、可重用和可组合的 React 组件，使创建网站和应用程序变得超级容易。
