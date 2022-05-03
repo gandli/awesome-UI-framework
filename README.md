@@ -27,3 +27,5 @@
 [VARLET](https://github.com/varletjs/varlet)  <img src="https://varlet-varletjs.vercel.app/logo.svg" width="21">
 
 > 基于 Vue3 的 Material design 风格移动端组件库
+
+[Vuesax](https://github.com/lusaxweb/vuesax)  <img width="42" src="https://raw.githubusercontent.com/lusaxweb/vuesax/master/public/vuesax-logo-beta.png"/>
