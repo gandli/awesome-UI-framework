@@ -6,6 +6,8 @@
 
 [Ant Design](https://github.com/ant-design/ant-design)  <img width="21" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
 
+[Chakra UI](https://github.com/chakra-ui/chakra-ui)  <img width="84" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png" />
+
 ## vue
 
 [Vuetify](https://github.com/vuetifyjs/vuetify) <img width="21" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
