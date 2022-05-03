@@ -18,6 +18,8 @@
 
 [Vuetify](https://github.com/vuetifyjs/vuetify) <img width="21" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
 
+> Vuetify 是一个 Vue UI 库，其中包含使用Material Design规范的精美手工组件。
+
 [Vant](https://github.com/youzan/vant)  <img src="https://cdn.jsdelivr.net/npm/@vant/assets/logo.png" width="21">
 
 > Vant 是一个轻量、可靠的移动端组件库，于 2017 年开源。
