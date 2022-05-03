@@ -1,5 +1,11 @@
 # web
 
+## Angular
+
+[DevUI](https://github.com/DevCloudFE/ng-devui) <img src="https://raw.githubusercontent.com/DevCloudFE/ng-devui/master/logo.svg" width="21">
+
+> DevUI Design 设计系统包含了 DevUI 规则、设计语言和最佳实践的资源组合。DevUI Design 可以让开发人员更加专注于应用逻辑的思考，而设计人员专注于用户体验、交互和流程
+
 ## react
 
 [Material UI](https://github.com/mui/material-ui) <img width="21" src="https://mui.com/static/logo.svg">
