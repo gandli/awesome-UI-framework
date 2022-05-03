@@ -22,6 +22,10 @@
 
 ## vue
 
+[Element](https://github.com/ElemeFE/element)   <img width="84" src="https://cdn.rawgit.com/ElemeFE/element/dev/element_logo.svg">
+
+> 用于 Web 的 Vue.js 2.0 UI 工具包。
+
 [Vuetify](https://github.com/vuetifyjs/vuetify) <img width="21" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
 
 > Vuetify 是一个 Vue UI 库，其中包含使用Material Design规范的精美手工组件。
